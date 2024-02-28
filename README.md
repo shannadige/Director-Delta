@@ -2,7 +2,7 @@
 
 Director Delta can provide feedback on your designs, giving its honest and brutal critique before providing recommendations for improvement. Director Delta also serves as a challenge generator, providing you with a business context and problem that can be solved through the use of digital design.
 
-Watch the video below, or get a full read on my website: https://www.shannadige.com
+Watch the video below, or get a full read on my website: <a href="https://www.shannadige.com/rabbithole/director-delta">shannadige.com</a>
 
 [![image of person and cat on a laptop, looking shocked at an AI demanding to make the logo bigger](https://assets-global.website-files.com/5f41aabba3e6792b793258e8/65da55f60e3d6b113753d4cf_dirdelta-youtube.png)](https://www.youtube.com/watch?v=L0DxuSzwEnE)
 
@@ -19,7 +19,7 @@ If you're running the script, there are a few requirements you should have so th
 <li>A functioning microphone input.</li>
 <li>A public URL that has an image to your design (or placeholder image if you are not reviewing a design).</li>
 </ul>
-Running the script will take you through a workflow in order to interact with Director Delta and get your desired response. You'll be able to continue the context in a given session based on previously-stored conversations.
+Running the master script (client-command.py) will take you through a workflow in order to interact with Director Delta and get your desired response. You'll be able to continue the context in a given session based on previously-stored conversations.
 <br>
 <img src="https://uploads-ssl.webflow.com/5f41aabba3e6792b793258e8/65d966d5cebc6c98857dec1b_flowchart.png" alt="Flowchart of an AI program"> 
 
@@ -28,6 +28,7 @@ Some disclaimers I need to disclose regarding this script:
 <ul>
 <li>Download and use at your own risk, follow data compliance rules as you normally would, and read your signed agreements with 3rd party services (Python, OpenAI, ElevenLabs, etc.) - <b>me not responsible for anything!</b></li>
 <li>You are free to use, abuse, and modify this script however you'd like, for personal or commercial use.</li>
+<li>Yes, I understand the code is not perfect. Feel free to tinker around and send me a merge request if you want to see improvements.</li>
 <li>The script does not confidently provide or reflect an expert UX opinion, and should not be reliably used for professional business decisions.</li>
 <li>The "script" refers to two scripts - one called "client-command.py" which is the primary script, and "send_audio.py" as a sister script for transcribing microphone input.</li>
 <li>In the demo video, I edited the recording across two identical conversations, in order to build the content. Additionally, there are some moments where the GPT incorrectly calls out user needs and business context, that can always be remedied in prompting the tool.</li>
