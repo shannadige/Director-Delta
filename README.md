@@ -4,7 +4,7 @@ Director Delta can provide feedback on your designs, giving its honest and bruta
 
 Watch the video below, or get a full read on my website: <a href="https://www.shannadige.com/rabbithole/director-delta">shannadige.com</a>
 
-[![image of person and cat on a laptop, looking shocked at an AI demanding to make the logo bigger](https://assets-global.website-files.com/5f41aabba3e6792b793258e8/65da55f60e3d6b113753d4cf_dirdelta-youtube.png)](https://www.youtube.com/watch?v=L0DxuSzwEnE)
+[![image of person and cat on a laptop, looking shocked at an AI demanding to make the logo bigger](https://assets-global.website-files.com/5f41aabba3e6792b793258e8/65da55f60e3d6b113753d4cf_dirdelta-youtube.png)](https://www.youtube.com/watch?v=RQgjdEcd4QI)
 
 <a href="https://chat.openai.com/g/g-fY3QZ6cu5-director-delta">Currently, this experience is available as a GPT for Pro users of ChatGPT.</a> So if you're looking to still experience this and save $20 for another subscription, you will certainly enjoy the coding adventure that I also took!
 <br><br>
